@@ -7,9 +7,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/darkweak/souin/configurationtypes"
-	"github.com/darkweak/souin/pkg/storage/types"
-	"github.com/darkweak/souin/pkg/surrogate/providers"
+	"github.com/Redocly/souin/configurationtypes"
+	"github.com/Redocly/souin/pkg/storage/types"
+	"github.com/Redocly/souin/pkg/surrogate/providers"
 )
 
 // SouinAPI object contains informations related to the endpoints

@@ -1,7 +1,7 @@
 Roadrunner middleware: Souin
 ================================
 
-This is a distributed HTTP cache module for Roadrunner based on [Souin](https://github.com/darkweak/souin) cache.  
+This is a distributed HTTP cache module for Roadrunner based on [Souin](https://github.com/Redocly/souin) cache.  
 
 ## Features
 
@@ -126,5 +126,5 @@ http:
 Other resources
 ---------------
 You can find an example for a docker-compose stack inside the `examples` folder.  
-See the [Souin](https://github.com/darkweak/souin) configuration for the full configuration, and its associated [development roadrunner middleware](https://github.com/darkweak/souin/blob/master/plugins/roadrunner)  
+See the [Souin](https://github.com/Redocly/souin) configuration for the full configuration, and its associated [development roadrunner middleware](https://github.com/Redocly/souin/blob/master/plugins/roadrunner)  
 

@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/darkweak/souin/configurationtypes"
-	"github.com/darkweak/souin/pkg/storage/types"
+	"github.com/Redocly/souin/configurationtypes"
+	"github.com/Redocly/souin/pkg/storage/types"
 	"github.com/darkweak/storages/core"
 )
 

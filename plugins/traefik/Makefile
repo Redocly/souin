@@ -1,6 +1,6 @@
 .PHONY: copy-file-to copy-to load-checker prepare replace vendor
 
-SOUIN=vendor/github.com/darkweak/souin
+SOUIN=vendor/github.com/Redocly/souin
 PKG=$(SOUIN)/pkg
 API=$(SOUIN)/api
 PKG_API=$(PKG)/api

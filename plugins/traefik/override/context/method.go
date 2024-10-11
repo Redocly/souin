@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/darkweak/souin/configurationtypes"
+	"github.com/Redocly/souin/configurationtypes"
 )
 
 const SupportedMethod ctxKey = "souin_ctx.SUPPORTED_METHOD"

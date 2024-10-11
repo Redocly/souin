@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"sync"
 
-	"github.com/darkweak/souin/context"
-	"github.com/darkweak/souin/pkg/middleware"
-	"github.com/darkweak/souin/plugins/souin/agnostic"
+	"github.com/Redocly/souin/context"
+	"github.com/Redocly/souin/pkg/middleware"
+	"github.com/Redocly/souin/plugins/souin/agnostic"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

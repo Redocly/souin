@@ -13,10 +13,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/darkweak/souin/pkg/middleware"
-	"github.com/darkweak/souin/plugins/souin/configuration"
-	"github.com/darkweak/souin/plugins/souin/providers"
-	"github.com/darkweak/souin/plugins/souin/storages"
+	"github.com/Redocly/souin/pkg/middleware"
+	"github.com/Redocly/souin/plugins/souin/configuration"
+	"github.com/Redocly/souin/plugins/souin/providers"
+	"github.com/Redocly/souin/plugins/souin/storages"
 )
 
 type canceledRequestContextError struct{}

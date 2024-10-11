@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/darkweak/souin/configurationtypes"
+	"github.com/Redocly/souin/configurationtypes"
 )
 
 // CloudflareSurrogateStorage is the layer for Surrogate-key support storage

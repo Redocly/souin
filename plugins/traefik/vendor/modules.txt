@@ -66,20 +66,20 @@ github.com/cpuguy83/go-md2man/v2/md2man
 # github.com/darkweak/go-esi v0.0.5
 ## explicit; go 1.18
 github.com/darkweak/go-esi/esi
-# github.com/darkweak/souin v1.7.2 => ../..
+# github.com/Redocly/souin v1.7.2 => ../..
 ## explicit; go 1.22.1
-github.com/darkweak/souin/configurationtypes
-github.com/darkweak/souin/context
-github.com/darkweak/souin/helpers
-github.com/darkweak/souin/pkg/api
-github.com/darkweak/souin/pkg/api/debug
-github.com/darkweak/souin/pkg/api/prometheus
-github.com/darkweak/souin/pkg/middleware
-github.com/darkweak/souin/pkg/rfc
-github.com/darkweak/souin/pkg/storage
-github.com/darkweak/souin/pkg/storage/types
-github.com/darkweak/souin/pkg/surrogate
-github.com/darkweak/souin/pkg/surrogate/providers
+github.com/Redocly/souin/configurationtypes
+github.com/Redocly/souin/context
+github.com/Redocly/souin/helpers
+github.com/Redocly/souin/pkg/api
+github.com/Redocly/souin/pkg/api/debug
+github.com/Redocly/souin/pkg/api/prometheus
+github.com/Redocly/souin/pkg/middleware
+github.com/Redocly/souin/pkg/rfc
+github.com/Redocly/souin/pkg/storage
+github.com/Redocly/souin/pkg/storage/types
+github.com/Redocly/souin/pkg/surrogate
+github.com/Redocly/souin/pkg/surrogate/providers
 # github.com/darkweak/storages/core v0.0.8
 ## explicit; go 1.22.1
 github.com/darkweak/storages/core

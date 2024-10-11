@@ -7,7 +7,7 @@ import (
 
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/modules/caddyhttp"
-	"github.com/darkweak/souin/configurationtypes"
+	"github.com/Redocly/souin/configurationtypes"
 )
 
 const (

@@ -5,7 +5,7 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/darkweak/souin/pkg/middleware"
+	"github.com/Redocly/souin/pkg/middleware"
 	"github.com/gin-gonic/gin"
 )
 

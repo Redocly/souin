@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/darkweak/souin/configurationtypes"
+	"github.com/Redocly/souin/configurationtypes"
 )
 
 const (

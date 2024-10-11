@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/caddyserver/caddy/v2"
-	"github.com/darkweak/souin/configurationtypes"
+	"github.com/Redocly/souin/configurationtypes"
 )
 
 func Test_KeyContext_SetupContext(t *testing.T) {

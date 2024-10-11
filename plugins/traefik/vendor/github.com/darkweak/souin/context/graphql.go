@@ -8,7 +8,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/darkweak/souin/configurationtypes"
+	"github.com/Redocly/souin/configurationtypes"
 )
 
 const (

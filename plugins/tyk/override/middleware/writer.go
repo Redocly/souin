@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/darkweak/souin/pkg/rfc"
+	"github.com/Redocly/souin/pkg/rfc"
 )
 
 type SouinWriterInterface interface {

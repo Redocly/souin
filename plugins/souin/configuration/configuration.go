@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/darkweak/souin/configurationtypes"
+	"github.com/Redocly/souin/configurationtypes"
 	"github.com/darkweak/storages/core"
 	yaml "gopkg.in/yaml.v3"
 )

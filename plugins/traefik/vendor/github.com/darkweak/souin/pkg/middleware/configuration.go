@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"github.com/darkweak/souin/configurationtypes"
+	"github.com/Redocly/souin/configurationtypes"
 )
 
 // BaseConfiguration holder

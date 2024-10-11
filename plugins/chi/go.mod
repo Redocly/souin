@@ -1,10 +1,10 @@
-module github.com/darkweak/souin/plugins/chi
+module github.com/Redocly/souin/plugins/chi
 
 go 1.22.1
 
 require (
-	github.com/darkweak/souin v1.7.2
-	github.com/darkweak/souin/plugins/souin/storages v0.0.0-00010101000000-000000000000
+	github.com/Redocly/souin v1.7.2
+	github.com/Redocly/souin/plugins/souin/storages v0.0.0-00010101000000-000000000000
 	github.com/go-chi/chi/v5 v5.0.12
 )
 
@@ -179,6 +179,6 @@ require (
 )
 
 replace (
-	github.com/darkweak/souin v1.7.2 => ../..
-	github.com/darkweak/souin/plugins/souin/storages => ../souin/storages
+	github.com/Redocly/souin v1.7.2 => ../..
+	github.com/Redocly/souin/plugins/souin/storages => ../souin/storages
 )

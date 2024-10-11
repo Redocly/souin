@@ -3,7 +3,7 @@ package helpers
 import (
 	"regexp"
 
-	configurationtypes "github.com/darkweak/souin/configurationtypes"
+	configurationtypes "github.com/Redocly/souin/configurationtypes"
 )
 
 // InitializeRegexp will generate one strong regex from your urls defined in the configuration.yml

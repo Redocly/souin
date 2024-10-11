@@ -5,7 +5,7 @@ import (
 	"net/http/pprof"
 	"strings"
 
-	"github.com/darkweak/souin/configurationtypes"
+	"github.com/Redocly/souin/configurationtypes"
 )
 
 // DebugAPI object contains informations related to the endpoints

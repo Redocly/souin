@@ -1,4 +1,4 @@
-module github.com/darkweak/souin
+module github.com/Redocly/souin
 
 go 1.22.1
 

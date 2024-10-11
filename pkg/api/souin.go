@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/darkweak/souin/configurationtypes"
-	"github.com/darkweak/souin/pkg/storage/types"
-	"github.com/darkweak/souin/pkg/surrogate/providers"
+	"github.com/Redocly/souin/configurationtypes"
+	"github.com/Redocly/souin/pkg/storage/types"
+	"github.com/Redocly/souin/pkg/surrogate/providers"
 	"github.com/darkweak/storages/core"
 	"google.golang.org/protobuf/proto"
 	"google.golang.org/protobuf/types/known/timestamppb"

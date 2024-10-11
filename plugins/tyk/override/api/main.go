@@ -3,9 +3,9 @@ package api
 import (
 	"net/http"
 
-	"github.com/darkweak/souin/configurationtypes"
-	"github.com/darkweak/souin/pkg/storage/types"
-	"github.com/darkweak/souin/pkg/surrogate/providers"
+	"github.com/Redocly/souin/configurationtypes"
+	"github.com/Redocly/souin/pkg/storage/types"
+	"github.com/Redocly/souin/pkg/surrogate/providers"
 )
 
 // MapHandler is a map to store the available http Handlers

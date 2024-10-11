@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	souinCtx "github.com/darkweak/souin/context"
+	souinCtx "github.com/Redocly/souin/context"
 	"github.com/pquerna/cachecontrol/cacheobject"
 )
 

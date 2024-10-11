@@ -8,9 +8,9 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/darkweak/souin/configurationtypes"
-	"github.com/darkweak/souin/pkg/middleware"
-	"github.com/darkweak/souin/plugins/souin/storages"
+	"github.com/Redocly/souin/configurationtypes"
+	"github.com/Redocly/souin/pkg/middleware"
+	"github.com/Redocly/souin/plugins/souin/storages"
 
 	"github.com/cloudwego/hertz/pkg/app"
 )

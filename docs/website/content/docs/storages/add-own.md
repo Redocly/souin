@@ -45,7 +45,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/darkweak/souin/pkg/storage/types"
+	"github.com/Redocly/souin/pkg/storage/types"
 	"github.com/darkweak/storages/core"
 )
 

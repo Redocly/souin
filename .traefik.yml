@@ -1,9 +1,9 @@
 displayName: Souin
 type: middleware
-import: github.com/darkweak/souin/plugins/traefik
+import: github.com/Redocly/souin/plugins/traefik
 summary: 'Souin is a powerfull cache system as fast as Varnish but easier to configure'
 
-# Refer to https://github.com/darkweak/Souin/blob/master/configuration/configuration.sample.yml for full configuration
+# Refer to https://github.com/Redocly/souin/blob/master/configuration/configuration.sample.yml for full configuration
 testData:
   api:
     prometheus: {}

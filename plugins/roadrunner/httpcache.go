@@ -3,8 +3,8 @@ package roadrunner
 import (
 	"net/http"
 
-	"github.com/darkweak/souin/pkg/middleware"
-	"github.com/darkweak/souin/plugins/souin/storages"
+	"github.com/Redocly/souin/pkg/middleware"
+	"github.com/Redocly/souin/plugins/souin/storages"
 	"github.com/roadrunner-server/errors"
 	"go.uber.org/zap"
 )

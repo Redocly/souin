@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	beegoCtx "github.com/beego/beego/v2/server/web/context"
-	"github.com/darkweak/souin/pkg/rfc"
+	"github.com/Redocly/souin/pkg/rfc"
 )
 
 // CustomWriter handles the response and provide the way to cache the value

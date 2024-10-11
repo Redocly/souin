@@ -1,11 +1,11 @@
-module github.com/darkweak/souin/plugins/webgo
+module github.com/Redocly/souin/plugins/webgo
 
 go 1.22.1
 
 require (
 	github.com/bnkamalesh/webgo/v6 v6.7.0
-	github.com/darkweak/souin v1.7.2
-	github.com/darkweak/souin/plugins/souin/storages v0.0.0-00010101000000-000000000000
+	github.com/Redocly/souin v1.7.2
+	github.com/Redocly/souin/plugins/souin/storages v0.0.0-00010101000000-000000000000
 )
 
 require (
@@ -179,6 +179,6 @@ require (
 )
 
 replace (
-	github.com/darkweak/souin v1.7.2 => ../..
-	github.com/darkweak/souin/plugins/souin/storages => ../souin/storages
+	github.com/Redocly/souin v1.7.2 => ../..
+	github.com/Redocly/souin/plugins/souin/storages => ../souin/storages
 )

@@ -1,15 +1,15 @@
-module github.com/darkweak/souin/plugins/souin
+module github.com/Redocly/souin/plugins/souin
 
 go 1.22.1
 
 replace (
-	github.com/darkweak/souin v1.7.2 => ../..
-	github.com/darkweak/souin/plugins/souin/storages => ./storages
+	github.com/Redocly/souin v1.7.2 => ../..
+	github.com/Redocly/souin/plugins/souin/storages => ./storages
 )
 
 require (
-	github.com/darkweak/souin v1.7.2
-	github.com/darkweak/souin/plugins/souin/storages v0.0.0-00010101000000-000000000000
+	github.com/Redocly/souin v1.7.2
+	github.com/Redocly/souin/plugins/souin/storages v0.0.0-00010101000000-000000000000
 	github.com/darkweak/storages/core v0.0.8
 	github.com/fsnotify/fsnotify v1.7.0
 	go.uber.org/zap v1.27.0

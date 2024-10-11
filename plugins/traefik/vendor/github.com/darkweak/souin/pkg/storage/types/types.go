@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/darkweak/souin/pkg/rfc"
+	"github.com/Redocly/souin/pkg/rfc"
 )
 
 type Storer interface {

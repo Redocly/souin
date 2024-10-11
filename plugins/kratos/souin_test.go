@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/darkweak/souin/configurationtypes"
-	"github.com/darkweak/souin/pkg/middleware"
+	"github.com/Redocly/souin/configurationtypes"
+	"github.com/Redocly/souin/pkg/middleware"
 )
 
 var devDefaultConfiguration = middleware.BaseConfiguration{

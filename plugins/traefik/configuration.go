@@ -1,7 +1,7 @@
 package traefik
 
 import (
-	"github.com/darkweak/souin/configurationtypes"
+	"github.com/Redocly/souin/configurationtypes"
 )
 
 // Configuration holder

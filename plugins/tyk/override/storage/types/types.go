@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/darkweak/souin/configurationtypes"
-	"github.com/darkweak/souin/pkg/rfc"
+	"github.com/Redocly/souin/configurationtypes"
+	"github.com/Redocly/souin/pkg/rfc"
 )
 
 type KeyIndex struct {
