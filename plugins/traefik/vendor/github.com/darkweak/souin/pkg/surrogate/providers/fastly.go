@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/Redocly/souin/configurationtypes"
+	"github.com/darkweak/souin/configurationtypes"
 )
 
 // FastlySurrogateStorage is the layer for Surrogate-key support storage

@@ -1,4 +1,4 @@
-module github.com/Redocly/souin/plugins/beego
+module github.com/darkweak/souin/plugins/beego
 
 go 1.22.1
 
@@ -6,9 +6,9 @@ toolchain go1.22.4
 
 require (
 	github.com/beego/beego/v2 v2.1.1
-	github.com/Redocly/souin v1.7.2
-	github.com/Redocly/souin/plugins/souin v0.0.0-00010101000000-000000000000
-	github.com/Redocly/souin/plugins/souin/storages v0.0.0-00010101000000-000000000000
+	github.com/darkweak/souin v1.7.2
+	github.com/darkweak/souin/plugins/souin v0.0.0-00010101000000-000000000000
+	github.com/darkweak/souin/plugins/souin/storages v0.0.0-00010101000000-000000000000
 )
 
 require (
@@ -184,7 +184,7 @@ require (
 )
 
 replace (
-	github.com/Redocly/souin v1.7.2 => ../..
-	github.com/Redocly/souin/plugins/souin => ../souin
-	github.com/Redocly/souin/plugins/souin/storages => ../souin/storages
+	github.com/darkweak/souin v1.7.2 => ../..
+	github.com/darkweak/souin/plugins/souin => ../souin
+	github.com/darkweak/souin/plugins/souin/storages => ../souin/storages
 )

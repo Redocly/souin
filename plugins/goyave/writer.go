@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/Redocly/souin/pkg/middleware"
+	"github.com/darkweak/souin/pkg/middleware"
 )
 
 type baseWriter struct {

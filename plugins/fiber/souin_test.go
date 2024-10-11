@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Redocly/souin/pkg/middleware"
+	"github.com/darkweak/souin/pkg/middleware"
 	"github.com/gofiber/fiber/v2"
 )
 

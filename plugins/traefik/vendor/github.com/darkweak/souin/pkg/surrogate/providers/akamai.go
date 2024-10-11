@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/Redocly/souin/configurationtypes"
+	"github.com/darkweak/souin/configurationtypes"
 )
 
 // AkamaiSurrogateStorage is the layer for Surrogate-key support storage

@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	souin_gin "github.com/Redocly/souin/plugins/gin"
+	souin_gin "github.com/darkweak/souin/plugins/gin"
 	"github.com/gin-gonic/gin"
 )
 

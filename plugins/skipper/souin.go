@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/Redocly/souin/pkg/middleware"
-	"github.com/Redocly/souin/plugins/souin/storages"
+	"github.com/darkweak/souin/pkg/middleware"
+	"github.com/darkweak/souin/plugins/souin/storages"
 	"github.com/zalando/skipper/filters"
 )
 

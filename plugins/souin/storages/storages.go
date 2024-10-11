@@ -3,7 +3,7 @@ package storages
 import (
 	"time"
 
-	"github.com/Redocly/souin/configurationtypes"
+	"github.com/darkweak/souin/configurationtypes"
 	"github.com/darkweak/storages/badger"
 	"github.com/darkweak/storages/core"
 	"github.com/darkweak/storages/etcd"

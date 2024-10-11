@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Redocly/souin/context"
+	"github.com/darkweak/souin/context"
 	"github.com/pquerna/cachecontrol/cacheobject"
 )
 

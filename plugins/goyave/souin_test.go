@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Redocly/souin/pkg/middleware"
+	"github.com/darkweak/souin/pkg/middleware"
 	"goyave.dev/goyave/v4"
 	"goyave.dev/goyave/v4/config"
 )

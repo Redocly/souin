@@ -1,10 +1,10 @@
-module github.com/Redocly/souin/plugins/traefik
+module github.com/darkweak/souin/plugins/traefik
 
 go 1.22.1
 
 require (
 	github.com/akyoto/cache v1.0.6
-	github.com/Redocly/souin v1.7.2
+	github.com/darkweak/souin v1.7.2
 	github.com/pquerna/cachecontrol v0.2.0
 )
 
@@ -125,6 +125,6 @@ require (
 )
 
 replace (
-	github.com/Redocly/souin v1.7.2 => ../..
+	github.com/darkweak/souin v1.7.2 => ../..
 	go.uber.org/zap v1.26.0 => go.uber.org/zap v1.21.0
 )

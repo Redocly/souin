@@ -1,7 +1,7 @@
 package providers
 
 import (
-	"github.com/Redocly/souin/configurationtypes"
+	"github.com/darkweak/souin/configurationtypes"
 )
 
 // SurrogateFactory generate a SurrogateInterface instance

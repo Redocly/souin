@@ -14,7 +14,7 @@ pilot:
 experimental:
   localPlugins:
     souin:
-      moduleName: github.com/Redocly/souin
+      moduleName: github.com/darkweak/souin
 
 log:
   level: DEBUG

@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/Redocly/souin/configurationtypes"
+	"github.com/darkweak/souin/configurationtypes"
 	"github.com/pquerna/cachecontrol/cacheobject"
 )
 

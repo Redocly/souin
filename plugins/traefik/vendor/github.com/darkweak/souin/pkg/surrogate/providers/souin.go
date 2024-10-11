@@ -1,7 +1,7 @@
 package providers
 
 import (
-	"github.com/Redocly/souin/configurationtypes"
+	"github.com/darkweak/souin/configurationtypes"
 )
 
 // SouinSurrogateStorage is the layer for Surrogate-key support storage

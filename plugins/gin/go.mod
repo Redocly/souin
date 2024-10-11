@@ -1,10 +1,10 @@
-module github.com/Redocly/souin/plugins/gin
+module github.com/darkweak/souin/plugins/gin
 
 go 1.22.1
 
 require (
-	github.com/Redocly/souin v1.7.2
-	github.com/Redocly/souin/plugins/souin/storages v0.0.0-00010101000000-000000000000
+	github.com/darkweak/souin v1.7.2
+	github.com/darkweak/souin/plugins/souin/storages v0.0.0-00010101000000-000000000000
 	github.com/gin-gonic/gin v1.9.1
 )
 
@@ -196,6 +196,6 @@ require (
 )
 
 replace (
-	github.com/Redocly/souin v1.7.2 => ../..
-	github.com/Redocly/souin/plugins/souin/storages => ../souin/storages
+	github.com/darkweak/souin v1.7.2 => ../..
+	github.com/darkweak/souin/plugins/souin/storages => ../souin/storages
 )

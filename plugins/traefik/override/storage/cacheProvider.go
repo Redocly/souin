@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/akyoto/cache"
-	t "github.com/Redocly/souin/configurationtypes"
-	"github.com/Redocly/souin/pkg/rfc"
-	"github.com/Redocly/souin/pkg/storage/types"
+	t "github.com/darkweak/souin/configurationtypes"
+	"github.com/darkweak/souin/pkg/rfc"
+	"github.com/darkweak/souin/pkg/storage/types"
 )
 
 // Cache provider type

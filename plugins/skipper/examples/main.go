@@ -1,7 +1,7 @@
 package main
 
 import (
-	souin_skipper "github.com/Redocly/souin/plugins/skipper"
+	souin_skipper "github.com/darkweak/souin/plugins/skipper"
 	"github.com/zalando/skipper"
 	"github.com/zalando/skipper/filters"
 )

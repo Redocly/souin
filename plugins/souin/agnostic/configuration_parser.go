@@ -4,8 +4,8 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/Redocly/souin/configurationtypes"
-	"github.com/Redocly/souin/pkg/middleware"
+	"github.com/darkweak/souin/configurationtypes"
+	"github.com/darkweak/souin/pkg/middleware"
 )
 
 const (

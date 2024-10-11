@@ -73,8 +73,8 @@ package surrogate
 // |---------------|------------------------------|
 
 import (
-	"github.com/Redocly/souin/configurationtypes"
-	"github.com/Redocly/souin/pkg/surrogate/providers"
+	"github.com/darkweak/souin/configurationtypes"
+	"github.com/darkweak/souin/pkg/surrogate/providers"
 )
 
 // InitializeSurrogate will initialize the Surrogate-Key storage system

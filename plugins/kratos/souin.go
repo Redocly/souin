@@ -3,8 +3,8 @@ package kratos
 import (
 	"net/http"
 
-	"github.com/Redocly/souin/pkg/middleware"
-	"github.com/Redocly/souin/plugins/souin/storages"
+	"github.com/darkweak/souin/pkg/middleware"
+	"github.com/darkweak/souin/plugins/souin/storages"
 	kratos_http "github.com/go-kratos/kratos/v2/transport/http"
 )
 

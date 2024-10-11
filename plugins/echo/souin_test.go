@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Redocly/souin/configurationtypes"
-	"github.com/Redocly/souin/pkg/middleware"
+	"github.com/darkweak/souin/configurationtypes"
+	"github.com/darkweak/souin/pkg/middleware"
 	"github.com/darkweak/storages/core"
 	"github.com/labstack/echo/v4"
 )

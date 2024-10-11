@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Redocly/souin/configurationtypes"
-	"github.com/Redocly/souin/pkg/middleware"
-	"github.com/Redocly/souin/plugins/souin/storages"
+	"github.com/darkweak/souin/configurationtypes"
+	"github.com/darkweak/souin/pkg/middleware"
+	"github.com/darkweak/souin/plugins/souin/storages"
 	"github.com/gin-gonic/gin"
 )
 

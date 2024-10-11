@@ -7,7 +7,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Redocly/souin/configurationtypes"
+	"github.com/darkweak/souin/configurationtypes"
 	"go.uber.org/zap"
 )
 
